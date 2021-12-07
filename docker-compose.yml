@@ -5,7 +5,7 @@ services:
     build: .
     #image: "dyegojustino/myfirstapp:2.0"
     environment:
-      - MESSAGE=Variavel de Ambiente para Mudar o Texto apresentado!!!
+      - MESSAGE=Variavel de Ambiente para Mudar o Texto apresentado!!!!
     networks:
       labdocker:
         ipv4_address: 172.20.0.2
